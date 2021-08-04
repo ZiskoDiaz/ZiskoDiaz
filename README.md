@@ -33,6 +33,6 @@
 <a href="https://twitter.com/ziskocl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziskocl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/franciscofenixdigitalcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/franciscofenixdigitalcl" height="30" width="40" /></a>
 <a href="https://fb.com/juanfrancisco.diazcaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/juanfrancisco.diazcaro" height="30" width="40" /></a>
-<a href="https://instagram.com/ziskocl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziskocl" height="30" width="40" /></a>
-<a href="/zisko.cl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="zisko.cl" height="30" width="40" /></a>
+<a href="https://instagram.com/zisko.cl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziskocl" height="30" width="40" /></a>
+<a href="/zisko.cl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="zisko.cl" height="30" width="40" /></a>
 </p>
