@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francisco -@ZiskoDiaz- Diaz</h1>
+<h1 align="center">Hi 👋, I'm Francisco Diaz</h1>
 <h3 align="center">I’m interested in find an work out Chile in programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziskodiaz&label=Profile%20views&color=0e75b6&style=flat" alt="ziskodiaz" /> </p>
