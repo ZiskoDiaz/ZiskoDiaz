@@ -5,21 +5,18 @@
 
 <p align="left"> <a href="https://twitter.com/ziskocl" target="blank"><img src="https://img.shields.io/twitter/follow/ziskocl?logo=twitter&style=for-the-badge" alt="ziskocl" /></a> </p>
 
-- 🔭 I’m currently working **teach about TI in a Formation Technician Center**
+-🔭 I’m currently working **teach about TI in a Formation Technician Center**
 
-- 🌱 I’m currently learning **Python & JavaScript**
+-🌱 I’m currently learning **Python & JavaScript**
 
-- 📝 I regularly write articles on [https://zisko.cl](https://zisko.cl)
+-📝 I regularly write articles on [https://zisko.cl](https://zisko.cl)
 
-- 💬 Ask me about **Python, TI projects & ethical hacking**
+-💬 Ask me about **Python, TI projects & ethical hacking**
 
-- 📫 How to reach me **ziskodev@gmail.com**
+-📫 How to reach me **ziskodev@gmail.com**
 
-- 📄 Know about my experiences [https://https://www.linkedin.com/in/franciscofenixdigitalcl/](https://https://www.linkedin.com/in/franciscofenixdigitalcl/)
+-📄 Know about my experiences [https://https://www.linkedin.com/in/franciscofenixdigitalcl/](https://https://www.linkedin.com/in/franciscofenixdigitalcl/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
