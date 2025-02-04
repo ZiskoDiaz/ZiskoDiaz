@@ -13,9 +13,9 @@
 🔹 Apasionado por la Inteligencia Artificial y la Seguridad de la Información.  
 🔹 En búsqueda de oportunidades de trabajo fuera de Chile.  
 
-📝 Escribo artículos en [zisko.cl](https://zisko.cl)  
-📫 Contáctame en **ziskodev@gmail.com**  
-📄 Más sobre mi experiencia en [LinkedIn](https://www.linkedin.com/in/franciscofenixdigitalcl/)  
+📝 Escribo artículos en [ACADEVMIA](https://acadevmia.cl)  
+📫 Contáctame en **ziskodev@gmail.com o juan.diaz@cftla.cl**  
+📄 Más sobre mi experiencia en [LinkedIn](https://www.linkedin.com/in/franciscodiazdev//)  
 
 ---
 
@@ -69,7 +69,7 @@
 ## 🌐 Conéctate Conmigo  
 
 <p align="left">
-<a href="https://twitter.com/ziskocl" target="blank">
+<a href="https://twitter.com/ziskodev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziskocl" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/franciscofenixdigitalcl" target="blank">
