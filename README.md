@@ -12,8 +12,7 @@
 🔹 Desarrollador Web Freelance con +5 años de experiencia en tecnología.  
 🔹 Apasionado por la Inteligencia Artificial y la Seguridad de la Información.  
 🔹 En búsqueda de oportunidades de trabajo fuera de Chile.  
-
-📝 Escribo artículos en [ACADEVMIA](https://acadevmia.cl)  
+ 
 📫 Contáctame en **ziskodev@gmail.com o juan.diaz@cftla.cl**  
 📄 Más sobre mi experiencia en [LinkedIn](https://www.linkedin.com/in/franciscodiazdev//)  
 
@@ -28,7 +27,7 @@
 - HTML | CSS | JavaScript | Bootstrap | Tailwind CSS  
 
 ### 🔹 Lenguajes  
-- Python | JavaScript | PHP  
+- Python | JavaScript | PHP | Kotlin 
 
 ### 🔹 Otros  
 - Linux | Git | Seguridad Informática | Inteligencia Artificial  
