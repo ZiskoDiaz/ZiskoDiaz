@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy Francisco Díaz Caro</h1>
 <h3 align="center">
-Desarrollador de Software · Docente TI · Especialista en Seguridad Industrial
+Ingeniero en Informática · Desarrollador de Software · Docente TI
 </h3>
 
 <p align="center">
@@ -9,15 +9,17 @@ Desarrollador de Software · Docente TI · Especialista en Seguridad Industrial
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Perfil Profesional
 
-Soy desarrollador de software y docente en Tecnologías de la Información, con más de **5 años de experiencia** combinando desarrollo web, formación técnica y seguridad industrial.
+Ingeniero en Informática, titulado con mención en **Analítica Avanzada**, con experiencia combinada en **desarrollo web**, **docencia técnica** y **seguridad industrial**.
 
-Trabajo entre el **mundo académico y el productivo**, diseñando soluciones tecnológicas funcionales, seguras y mantenibles. Me interesa especialmente la **ciberseguridad**, la **inteligencia artificial aplicada** y los sistemas bien pensados desde su arquitectura.
+Cuento con más de **cinco años de experiencia docente** en educación técnico-profesional, impartiendo asignaturas de Tecnologías de la Información, Programación, Ciberseguridad, Inteligencia Artificial y Seguridad Industrial.  
+Paralelamente, he trabajado por más de **cinco años como desarrollador web freelance**, desarrollando soluciones para pymes con foco en **UX, seguridad, rendimiento y despliegue productivo**.
 
-Actualmente me encuentro **abierto a oportunidades laborales internacionales**, tanto remotas como presenciales.
+Me desempeño cómodamente en entornos Linux, trabajo con control de versiones y aplico herramientas de **IA como apoyo al análisis, modelado y optimización de procesos**.
 
-📫 **Contacto**  
+📍 Chile — **Disponibilidad remota e híbrida**  
+📫 **Contacto:**  
 - 📧 ziskodev@gmail.com  
 - 📧 juan.diaz@cftla.cl  
 
@@ -25,14 +27,14 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 
 ## 🛠️ Stack Tecnológico
 
-### 🔹 Back-End
+### 🔹 Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
 </p>
 
-### 🔹 Front-End
+### 🔹 Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -43,49 +45,72 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 
 ### 🔹 Lenguajes
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
 </p>
 
-### 🔹 Otros
+### 🔹 Infraestructura y Otros
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
-- 🔐 Seguridad Informática  
-- 🤖 Inteligencia Artificial aplicada  
+- Seguridad informática aplicada  
+- Optimización de performance web  
+- CI/CD y Docker *(exposición)*  
+- Inteligencia Artificial aplicada a análisis y docencia  
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### 🎓 Docente de Tecnologías de la Información y Seguridad Industrial  
-**Corporación Educacional UDEC S.A.**  
+### 🎓 Docente TIC, Programación, Ciberseguridad e Inteligencia Artificial  
+**CFT Lota Arauco**  
 📅 Marzo 2020 – Actualidad  
 
-- Docencia en TIC, programación y seguridad industrial.  
-- Diseño de planes de estudio y material didáctico.  
-- Capacitación en ciberseguridad y herramientas digitales.  
+- Impartición de módulos de TIC, programación, ciberseguridad, IA y seguridad industrial.  
+- Diseño instruccional, elaboración de guías, rúbricas y evaluaciones por competencias.  
+- Implementación de metodologías activas y aprendizaje basado en problemas.  
+- Diseño y estandarización de planes formativos completos en TIC y Seguridad Industrial.  
 
 ### 💻 Desarrollador Web Freelance  
-**Zisko.dev**  
-📅 Enero 2020 – Marzo 2023  
+**Wardify SpA**  
+📅 Enero 2021 – Actualidad  
 
-- Desarrollo y mantenimiento de sitios web y sistemas a medida.  
-- Implementación de soluciones tecnológicas seguras y escalables.  
-- Gestión completa del ciclo de desarrollo.  
+- Desarrollo y mantenimiento de sitios web para pymes y profesionales independientes.  
+- Implementación con foco en UX, performance, seguridad y SEO técnico.  
+- Migración segura de sitios sin downtime.  
+- Optimización de tiempos de carga (reducciones superiores al 60%).  
+- Gestión completa del ciclo: requerimientos, diseño, desarrollo, pruebas y entrega.  
 
 ---
 
 ## 🎓 Formación Académica
 
-- 🎓 **Ingeniería en Informática, mención Analítica Avanzada** *(En curso)*  
-- 🎓 **Técnico en Computación e Informática** *(Titulado)*  
-- 🎓 **Técnico en Prevención de Riesgos y Seguridad Industrial** *(Titulado)*  
+- 🎓 **Ingeniería en Informática / Sistemas – Mención Analítica Avanzada**  
+  IPP — *Titulado 2025*  
+
+- 🎓 **Técnico Superior en Computación e Informática**  
+  CFT Lota Arauco — *Titulado 2020*  
+
+- 🎓 **Técnico Superior en Prevención de Riesgos**  
+  IP Virginio Gómez — *Titulado 2013*  
+
+---
+
+## 📘 Diplomados y Especializaciones
+
+- Diplomado en Docencia en Educación Superior *(En curso)* — CFTLA  
+- Diplomado en Diseño y Programación de Bases de Datos — IPLACEX  
+- Diplomado en Integración Continua — IPLACEX  
+- Diplomado en Programación Orientada a Objetos — IPLACEX  
+- Diplomado en Programación Avanzada — IPLACEX  
+- Diplomado en Programación Frontend — IPLACEX  
+- Diplomado en Programación Multiplataforma — IPLACEX  
+- Diplomado en Programación Web — IPLACEX  
 
 ---
 
