@@ -1,91 +1,122 @@
-<h1 align="center">Hola 👋, soy Francisco Diaz Caro</h1>
-<h3 align="center">Desarrollador de Software | Docente de TI | Especialista en Seguridad Industrial</h3>
+<h1 align="center">👋 Hola, soy Francisco Díaz Caro</h1>
+<h3 align="center">
+Desarrollador de Software · Docente TI · Especialista en Seguridad Industrial
+</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziskodiaz&label=Profile%20views&color=0e75b6&style=flat" alt="ziskodiaz" />
 </p>
 
 ---
 
-## 🛠 Sobre Mí  
-🔹 Docente Part-Time en Tecnologías de la Información y Seguridad Industrial.  
-🔹 Desarrollador Web Freelance con +5 años de experiencia en tecnología.  
-🔹 Apasionado por la Inteligencia Artificial y la Seguridad de la Información.  
-🔹 En búsqueda de oportunidades de trabajo fuera de Chile.  
- 
-📫 Contáctame en **ziskodev@gmail.com o juan.diaz@cftla.cl**  
-📄 Más sobre mi experiencia en [LinkedIn](https://www.linkedin.com/in/franciscodiazdev//)  
+## 🧠 Sobre mí
+
+Soy desarrollador de software y docente en Tecnologías de la Información, con más de **5 años de experiencia** combinando desarrollo web, formación técnica y seguridad industrial.  
+
+Trabajo cómodamente entre el **mundo académico y el productivo**, diseñando soluciones tecnológicas funcionales, seguras y mantenibles. Me interesa especialmente la **ciberseguridad**, la **inteligencia artificial aplicada** y los sistemas bien pensados desde su arquitectura.
+
+Actualmente me encuentro **abierto a oportunidades laborales internacionales**, tanto remotas como presenciales.
+
+📫 **Contacto:**  
+- 📧 ziskodev@gmail.com  
+- 📧 juan.diaz@cftla.cl  
+
+🔗 **LinkedIn:**  
+👉 https://www.linkedin.com/in/franciscodiazdev/
 
 ---
 
-## 🚀 Habilidades Técnicas  
+## 🛠️ Stack Tecnológico
 
-### 🔹 Back-End  
-- PHP | SQL | MySQL | PostgreSQL  
+### Back-End
+- PHP  
+- SQL  
+- MySQL  
+- PostgreSQL  
 
-### 🔹 Front-End  
-- HTML | CSS | JavaScript | Bootstrap | Tailwind CSS  
+### Front-End
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- Tailwind CSS  
 
-### 🔹 Lenguajes  
-- Python | JavaScript | PHP | Kotlin 
+### Lenguajes
+- Python  
+- JavaScript  
+- PHP  
+- Kotlin  
 
-### 🔹 Otros  
-- Linux | Git | Seguridad Informática | Inteligencia Artificial  
-
----
-
-## 💼 Experiencia Profesional  
-
-### 🎓 **Docente de Tecnologías de la Información y Seguridad Industrial**  
-📌 Corporación Educacional UDEC S.A. | Marzo 2020 - Actualidad  
-✅ Formación en TIC, Programación y Seguridad Industrial.  
-✅ Desarrollo de planes de estudio y material educativo.  
-✅ Capacitación en ciberseguridad y herramientas digitales.  
-
-### 💻 **Desarrollador Web Freelance**  
-📌 Zisko.DEV | Enero 2020 - Marzo 2023  
-✅ Desarrollo y mantenimiento de sitios web.  
-✅ Implementación de soluciones tecnológicas seguras.  
-✅ Gestión de proyectos digitales de principio a fin.  
+### Otros
+- Linux (entornos productivos)  
+- Git / GitHub  
+- Seguridad Informática  
+- Inteligencia Artificial aplicada  
 
 ---
 
-## 🎓 Formación Académica  
-📍 **Ingeniería en Informática, Mención Analítica Avanzada** – *En curso*  
-📍 **Técnico en Computación e Informática** – *Titulado*  
-📍 **Técnico en Prevención de Riesgos y Seguridad Industrial** – *Titulado*  
+## 💼 Experiencia Profesional
+
+### 🎓 Docente de Tecnologías de la Información y Seguridad Industrial  
+**Corporación Educacional UDEC S.A.**  
+📅 Marzo 2020 – Actualidad  
+
+- Docencia en TIC, programación y seguridad industrial.  
+- Diseño de planes de estudio y material didáctico.  
+- Capacitación en ciberseguridad y uso de herramientas digitales.  
+- Vinculación entre contenidos técnicos y necesidades del sector productivo.  
+
+### 💻 Desarrollador Web Freelance  
+**Zisko.dev**  
+📅 Enero 2020 – Marzo 2023  
+
+- Desarrollo y mantenimiento de sitios web y sistemas a medida.  
+- Implementación de soluciones tecnológicas seguras y escalables.  
+- Gestión integral de proyectos: análisis, desarrollo y despliegue.  
 
 ---
 
-## 📊 Estadísticas de GitHub  
+## 🎓 Formación Académica
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziskodiaz&show_icons=true&locale=en&layout=compact" alt="ziskodiaz" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziskodiaz&show_icons=true&locale=en" alt="ziskodiaz" /></p>
+- **Ingeniería en Informática, mención Analítica Avanzada** *(En curso)*  
+- **Técnico en Computación e Informática** *(Titulado)*  
+- **Técnico en Prevención de Riesgos y Seguridad Industrial** *(Titulado)*  
 
 ---
 
-## 🌐 Conéctate Conmigo  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziskodiaz&show_icons=true&layout=compact" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziskodiaz&show_icons=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🌐 Conecta conmigo
 
 <p align="left">
-<a href="https://twitter.com/ziskodev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziskocl" height="30" width="40" />
+<a href="https://twitter.com/ziskodev" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/franciscofenixdigitalcl" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscofenixdigitalcl" height="30" width="40" />
+<a href="https://linkedin.com/in/franciscofenixdigitalcl" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://fb.com/juanfrancisco.diazcaro" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juanfrancisco.diazcaro" height="30" width="40" />
+<a href="https://fb.com/juanfrancisco.diazcaro" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/zisko.cl" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zisko.cl" height="30" width="40" />
+<a href="https://instagram.com/zisko.cl" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-## ☕ ¿Quieres apoyar mi trabajo?  
+## ☕ Apoya mi trabajo
 
 <a href="https://www.buymeacoffee.com/ziskoCL">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
 </a>
