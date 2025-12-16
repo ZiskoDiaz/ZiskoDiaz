@@ -21,9 +21,6 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 - 📧 ziskodev@gmail.com  
 - 📧 juan.diaz@cftla.cl  
 
-🔗 **LinkedIn**  
-👉 https://www.linkedin.com/in/franciscodiazdev/
-
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -92,6 +89,31 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 
 ---
 
+## 📚 Publicaciones (Libros)
+
+<p align="center">
+  <a href="https://www.amazon.com/dp/B0DVJGTJNX">
+    <img src="https://images-na.ssl-images-amazon.com/images/P/B0DVJGTJNX.01._SX300_.jpg" width="150" />
+  </a>
+  <a href="https://www.amazon.com/dp/B0DVQVSR9V">
+    <img src="https://images-na.ssl-images-amazon.com/images/P/B0DVQVSR9V.01._SX300_.jpg" width="150" />
+  </a>
+  <a href="https://www.amazon.com/dp/B0DVLNFJVH">
+    <img src="https://images-na.ssl-images-amazon.com/images/P/B0DVLNFJVH.01._SX300_.jpg" width="150" />
+  </a>
+  <a href="https://www.amazon.com/dp/B0FQ817JLM">
+    <img src="https://images-na.ssl-images-amazon.com/images/P/B0FQ817JLM.01._SX300_.jpg" width="150" />
+  </a>
+</p>
+
+---
+
+## 🧪 Perfil Académico
+
+- 🔬 **ORCID:** https://orcid.org/0000-0002-6744-5982  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -104,27 +126,16 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Redes Sociales
 
 <p align="left">
-<a href="https://twitter.com/ziskodev" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-</a>
-<a href="https://linkedin.com/in/franciscofenixdigitalcl" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-</a>
-<a href="https://fb.com/juanfrancisco.diazcaro" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
-</a>
-<a href="https://instagram.com/zisko.cl" target="_blank">
+<a href="https://www.instagram.com/ziskodev/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
 </a>
-</p>
-
----
-
-## ☕ Apoya mi trabajo
-
-<a href="https://www.buymeacoffee.com/ziskoCL">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" />
+<a href="https://www.facebook.com/juanfrancisco.diazcaro" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
 </a>
+<a href="https://www.linkedin.com/in/franciscodiazdev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+</a>
+</p>
