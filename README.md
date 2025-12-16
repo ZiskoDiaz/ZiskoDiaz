@@ -93,16 +93,16 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 
 <p align="center">
   <a href="https://www.amazon.com/dp/B0DVJGTJNX">
-    <img src="https://images-na.ssl-images-amazon.com/images/P/B0DVJGTJNX.01._SX300_.jpg" width="150" />
+    <img src="https://images-na.ssl-images-amazon.com/images/P/B0DVJGTJNX.01._SX300_.jpg" width="140" />
   </a>
   <a href="https://www.amazon.com/dp/B0DVQVSR9V">
-    <img src="https://images-na.ssl-images-amazon.com/images/P/B0DVQVSR9V.01._SX300_.jpg" width="150" />
+    <img src="https://images-na.ssl-images-amazon.com/images/P/B0DVQVSR9V.01._SX300_.jpg" width="140" />
   </a>
   <a href="https://www.amazon.com/dp/B0DVLNFJVH">
-    <img src="https://images-na.ssl-images-amazon.com/images/P/B0DVLNFJVH.01._SX300_.jpg" width="150" />
+    <img src="https://images-na.ssl-images-amazon.com/images/P/B0DVLNFJVH.01._SX300_.jpg" width="140" />
   </a>
   <a href="https://www.amazon.com/dp/B0FQ817JLM">
-    <img src="https://images-na.ssl-images-amazon.com/images/P/B0FQ817JLM.01._SX300_.jpg" width="150" />
+    <img src="https://images-na.ssl-images-amazon.com/images/P/B0FQ817JLM.01._SX300_.jpg" width="140" />
   </a>
 </p>
 
@@ -117,11 +117,11 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziskodiaz&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziskodiaz&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziskodiaz&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziskodiaz&show_icons=true&hide=stars" />
 </p>
 
 ---
