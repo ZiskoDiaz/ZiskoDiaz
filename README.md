@@ -11,47 +11,56 @@ Desarrollador de Software · Docente TI · Especialista en Seguridad Industrial
 
 ## 🧠 Sobre mí
 
-Soy desarrollador de software y docente en Tecnologías de la Información, con más de **5 años de experiencia** combinando desarrollo web, formación técnica y seguridad industrial.  
+Soy desarrollador de software y docente en Tecnologías de la Información, con más de **5 años de experiencia** combinando desarrollo web, formación técnica y seguridad industrial.
 
-Trabajo cómodamente entre el **mundo académico y el productivo**, diseñando soluciones tecnológicas funcionales, seguras y mantenibles. Me interesa especialmente la **ciberseguridad**, la **inteligencia artificial aplicada** y los sistemas bien pensados desde su arquitectura.
+Trabajo entre el **mundo académico y el productivo**, diseñando soluciones tecnológicas funcionales, seguras y mantenibles. Me interesa especialmente la **ciberseguridad**, la **inteligencia artificial aplicada** y los sistemas bien pensados desde su arquitectura.
 
 Actualmente me encuentro **abierto a oportunidades laborales internacionales**, tanto remotas como presenciales.
 
-📫 **Contacto:**  
+📫 **Contacto**  
 - 📧 ziskodev@gmail.com  
 - 📧 juan.diaz@cftla.cl  
 
-🔗 **LinkedIn:**  
+🔗 **LinkedIn**  
 👉 https://www.linkedin.com/in/franciscodiazdev/
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Back-End
-- PHP  
-- SQL  
-- MySQL  
-- PostgreSQL  
+### 🔹 Back-End
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+</p>
 
-### Front-End
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
-- Tailwind CSS  
+### 🔹 Front-End
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+</p>
 
-### Lenguajes
-- Python  
-- JavaScript  
-- PHP  
-- Kotlin  
+### 🔹 Lenguajes
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
+</p>
 
-### Otros
-- Linux (entornos productivos)  
-- Git / GitHub  
-- Seguridad Informática  
-- Inteligencia Artificial aplicada  
+### 🔹 Otros
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
+
+- 🔐 Seguridad Informática  
+- 🤖 Inteligencia Artificial aplicada  
 
 ---
 
@@ -63,8 +72,7 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 
 - Docencia en TIC, programación y seguridad industrial.  
 - Diseño de planes de estudio y material didáctico.  
-- Capacitación en ciberseguridad y uso de herramientas digitales.  
-- Vinculación entre contenidos técnicos y necesidades del sector productivo.  
+- Capacitación en ciberseguridad y herramientas digitales.  
 
 ### 💻 Desarrollador Web Freelance  
 **Zisko.dev**  
@@ -72,26 +80,26 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 
 - Desarrollo y mantenimiento de sitios web y sistemas a medida.  
 - Implementación de soluciones tecnológicas seguras y escalables.  
-- Gestión integral de proyectos: análisis, desarrollo y despliegue.  
+- Gestión completa del ciclo de desarrollo.  
 
 ---
 
 ## 🎓 Formación Académica
 
-- **Ingeniería en Informática, mención Analítica Avanzada** *(En curso)*  
-- **Técnico en Computación e Informática** *(Titulado)*  
-- **Técnico en Prevención de Riesgos y Seguridad Industrial** *(Titulado)*  
+- 🎓 **Ingeniería en Informática, mención Analítica Avanzada** *(En curso)*  
+- 🎓 **Técnico en Computación e Informática** *(Titulado)*  
+- 🎓 **Técnico en Prevención de Riesgos y Seguridad Industrial** *(Titulado)*  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziskodiaz&show_icons=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziskodiaz&show_icons=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziskodiaz&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziskodiaz&show_icons=true" />
 </p>
 
 ---
@@ -100,16 +108,16 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 
 <p align="left">
 <a href="https://twitter.com/ziskodev" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
 </a>
 <a href="https://linkedin.com/in/franciscofenixdigitalcl" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
 </a>
 <a href="https://fb.com/juanfrancisco.diazcaro" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
 </a>
 <a href="https://instagram.com/zisko.cl" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
 </a>
 </p>
 
@@ -118,5 +126,5 @@ Actualmente me encuentro **abierto a oportunidades laborales internacionales**, 
 ## ☕ Apoya mi trabajo
 
 <a href="https://www.buymeacoffee.com/ziskoCL">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" />
 </a>
